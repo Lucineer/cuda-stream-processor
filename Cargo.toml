@@ -1,0 +1,5 @@
+[package]
+name = "cuda-stream-processor"
+version = "0.1.0"
+edition = "2021"
+description = "Deliberation stream processor — real-time A2A payload stream with feed-in"
